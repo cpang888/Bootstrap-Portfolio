@@ -1,5 +1,5 @@
 
-#name {
+ #name {
     background-color:#4aaaa5;
     width:auto;
     padding: 0 25px 0 25px;
@@ -98,9 +98,6 @@ aside {
   }
 
 #idFooter {
-    /* position: relative; */
-    /* margin-left: 500px; */
-    /* bottom: 0; */
     background: #666666;
   }
 
@@ -177,7 +174,6 @@ aside {
      position: absolute;
      top: 150px;
      left: 5px;
-     /* width: 350px; */
      background-color: lightblue;
  }
 
@@ -195,10 +191,7 @@ aside {
 
  div.c {
     position: absolute;
-    /* padding: 5px;
-    margin: 5px; */
     width: 85%;
-    /* height: 250px; */
     top: 170px;
     background-color: lightblue;
  }
@@ -206,3 +199,13 @@ aside {
  .whiteBkg {
      background-color: #ffffff;
  }
+
+ .moveRight {
+    margin-left: 20px;
+    width: 80%;
+ } 
+
+ .containerWidth {
+    margin-left: 20px;
+    width: 80%;
+}
